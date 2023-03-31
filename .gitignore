@@ -1,0 +1,4 @@
+# Archivo .gitignore
+
+# Ignorar la carpeta de imágenes cargadas por usuarios
+imagenes/
